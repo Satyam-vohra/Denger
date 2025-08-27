@@ -25,7 +25,7 @@ It demonstrates database design, SQL queries, and management system features.
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/DBMS-Project.git
+[   git clone https://github.com/YOUR_USERNAME/DBMS-Project.git](https://github.com/Satyam-vohra/Denger.git)
    cd DBMS-Project
 Import the database file
 
